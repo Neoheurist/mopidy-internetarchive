@@ -1,3 +1,9 @@
+mopidy-internetarchive (0.5.0-0tkem1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Thomas Kemmer <tkemmer@computer.org>  Fri, 28 Feb 2014 14:40:12 +0100
+
 mopidy-internetarchive (0.4.0-0tkem1) unstable; urgency=low
 
   * New upstream release
